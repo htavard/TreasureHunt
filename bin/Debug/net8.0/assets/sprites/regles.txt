@@ -1,0 +1,21 @@
+
+									                  ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ 
+										
+										                  Règles du jeu 
+
+
+						              Vous aller pouvoir faire une ou plusieurs parties de chasse au trésor. Mais en quoi ça consiste ?
+					     Sur le même principe qu'un démineur, vous allez devoir découvrir les cases d'une grille tout en évitant les mines. 
+				     Vous perdez la partie si vous découvrez une mine, et vous la gagnez si vous découvrez toutes les cases de la grille sauf les mines.
+			     Dans ce jeu en plus des mines il y a aussi des trésors ! Découvrir un trésor va déclencher un pouvoir qui varie selon la difficulté de jeu que vous choisirez. 
+					    	      Chaque partie est chronométrée. La durée de votre partie vous sera restituée en fin de jeu. 
+
+									                  Il y a 3 niveaux de difficultés :
+
+				        → niveau facile : la découverte d'un trésor entraîne la destruction aléatoire d'une mine. La grille est au minimum de taille 5*5.
+
+				        → niveau moyen : la découverte d'un trésor vous donne le droit de connaître le nombre de mines sur la ligne ou colonne de votre choix. 
+									                 La grille est au minimum de taille 8*8.
+
+				        → niveau difficile : la découverte d'un trésor vous permet d'entrevoir la grille solution le temps d'un éclair ! En revanche, 
+						           vous devez finir la grille dans un temps imparti pour gagner.La grille est au minimum de taille 12*12.
